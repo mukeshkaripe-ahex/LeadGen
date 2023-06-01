@@ -1,0 +1,32 @@
+*{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+.mounii{
+    padding: 150px 100px;
+
+    text-align: center;
+}
+.mounii h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+.mounii span{
+    color: rgb(5, 5, 236);
+}
+.mouni-content{
+    padding: 50px 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.mouni-content .div{
+    /* padding: 10px;
+     */
+     padding-top: 50px;
+    width: 30%;
+    height: 200px;
+    text-align: right;
+}
